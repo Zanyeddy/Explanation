@@ -1,6 +1,6 @@
 while True:
         try:
-            user_input = input("Enter a number greater than 1:")
+            user_input = input("Enter number greater than 1:")
             num = int(user_input)
 
             if user_input == e:
